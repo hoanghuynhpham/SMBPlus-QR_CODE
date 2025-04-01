@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'smbplus/qr-code',
+        'name' => 'hoanghenry/qr-code',
         'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'smbplus/qr-code' => array(
+        'hoanghenry/qr-code' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
