@@ -1,0 +1,20 @@
+{
+    "name": "smbplus/qr-code",
+    "description": "QR Henry",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smbplus\\QrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Phạm Hoàng Huynh",
+            "email": "huynh.pham@smbplus.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "version": "1.0.0"
+}

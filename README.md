@@ -1,1 +1,0 @@
-# SMBPlus-QR_CODE
